@@ -34,12 +34,11 @@ Users should be able to:
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Flexboxes
 
 ### What I learned
 
-What I learned from this project is the intricacies of styling with CSS. Purely styling a website with CSS and not relying on pre-built, pre-stylized elements was a rewarding challenge.
+What I learned from this project is the intricacies of styling with CSS. Purely styling a website with CSS and not relying on pre-built, pre-stylized elements was a rewarding challenge. I usually wouldn't implement the styles in the index file but for this project it seemed easier to do this than separate the files for this size of a project.
 
 Understanding flexboxes and how to best utilize it for this project was fun to tackle. When I first started this project I was having difficulty understanding flexboxes but this project gave me a better grasp on it. I played a fun little game called Flexbox Froggy recommended to me by a professor which helped me instantly in getting a better understanding of flexboxes. Flexboxes are a great tool that I will add to my toolbox for future projects. 
 
@@ -66,7 +65,7 @@ This snippet of code was for handling the image inside of the blog card.
 
 ### Continued development
 
-In future projects I will try to tackle understanding of flexboxes more and how to utilize it to position elements to different parts of a webpage.
+In future projects I will try to tackle understanding of flexboxes more and how to utilize it to position elements to different parts of a webpage. Also, for projects of larger size, I will be separating the styles into its own file rather than combining it into the index.
 
 ### Useful resources
 
