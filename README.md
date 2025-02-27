@@ -43,6 +43,7 @@ What I learned from this project is the intricacies of styling with CSS. Purely 
 Understanding flexboxes and how to best utilize it for this project was fun to tackle. When I first started this project I was having difficulty understanding flexboxes but this project gave me a better grasp on it. I played a fun little game called Flexbox Froggy recommended to me by a professor which helped me instantly in getting a better understanding of flexboxes. Flexboxes are a great tool that I will add to my toolbox for future projects. 
 
 This snippet of code was for aligning the whole blog card to the center of the page.
+
 .page {
       width: 100%;
       height: 100%;
@@ -54,6 +55,7 @@ This snippet of code was for aligning the whole blog card to the center of the p
 
 
 This snippet of code was for handling the image inside of the blog card.
+
 .blogCardIMG {
       margin: 8%;
       border: 0px solid white;
