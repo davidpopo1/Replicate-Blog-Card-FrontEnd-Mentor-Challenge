@@ -32,26 +32,7 @@
       border-radius: 16px;
       height: 550px;
       width: 400px;
-      position: relative;
-      z-index: 2;
-    }
-
-    /*I know this probably isnt the most efficent way to create the dropshadow but I couldn't figure
-      out another way of doing it
-    */
-    .dropshadow {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      position: absolute;
-      z-index: 1;
-      background: black;
-      border-radius: 16px;
-      height: 550px;
-      width: 400px;
-      filter: drop-shadow(0.5rem 0.5rem);
-      left: 689px;
+      filter: drop-shadow(8px 8px);
     }
 
     .blogCardIMG {
@@ -82,6 +63,10 @@
     .blogCardTitle {
       margin-left: 8%;
       font-family: "Figtree", sans-serif;
+    }
+
+    .blogCardTitle:hover {
+      color: rgb(244, 208, 78);
     }
 
     .blogCardDesc {
